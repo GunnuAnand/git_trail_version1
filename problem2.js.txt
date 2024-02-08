@@ -1,0 +1,2 @@
+let x=9;
+(x%2==0)?console.log("Evem"):console.log("Odd");
