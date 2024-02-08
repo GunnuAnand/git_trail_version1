@@ -1,0 +1,6 @@
+let x=7;
+if(x%2==1){
+console.log("Odd");
+}
+else{
+console.log("Even");
